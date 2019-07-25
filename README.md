@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5c299972-ca78-493b-aca7-9ff733edc3a5/deploy-status)](https://app.netlify.com/sites/housefood/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
